@@ -2,6 +2,8 @@
 #Logistic Regression  #Decision Tree  #Random Forest  #Boosting
 
 The features of the data are:
+
+
     age: The person's age in years 
     sex: The person's sex (1 = male, 0 = female)
     cp: The chest pain experienced (Value 1: typical angina, Value 2: atypical angina, Value 3: non-anginal pain, Value 4: asymptomatic)
